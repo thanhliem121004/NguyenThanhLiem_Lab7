@@ -1,10 +1,13 @@
-# NguyenThanhLiem_Lab7
+# LAB7 - Login App
 
-Lab 7 Flutter Application project.
+Bài tập LAB7: Ứng dụng đăng nhập (Login App) viết bằng Flutter.
 
-## Google Drive Resources
-You can access the resources and assets for this lab via the following link:
-- **Google Drive Folder**: [Link to Google Drive](https://drive.google.com/drive/folders/15e3aXQrDE4MrofJf60NWb8nVtKGwJ1v8?usp=sharing)
+## Thông tin sinh viên
+- **Họ và tên**: Nguyễn Thanh Liêm
+- **Mã số sinh viên (MSSV)**: 2224802010267
 
-## Project Structure
-- **login_app/**: The main Flutter application source code.
+## Liên kết tài nguyên
+- **Thư mục tài liệu (Google Drive)**: [Nhấp vào đây để truy cập](https://drive.google.com/drive/folders/15e3aXQrDE4MrofJf60NWb8nVtKGwJ1v8?usp=sharing)
+
+## Cấu trúc thư mục
+- **login_app/**: Thư mục chứa mã nguồn ứng dụng Flutter.
